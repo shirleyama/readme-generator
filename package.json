@@ -1,0 +1,29 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirleyama/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generate",
+    "input",
+    "output",
+    "node"
+  ],
+  "author": "ShirleyAma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shirleyama/readme-generator/issues"
+  },
+  "homepage": "https://github.com/shirleyama/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
