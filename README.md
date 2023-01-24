@@ -1,7 +1,7 @@
-# YES
-
+# README Generator
+MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description	   
-TEN
+A command-line application that dynamically generates a professional README.md file from a user's input.
 	  
 ## Table of Contents
 	  
@@ -13,25 +13,23 @@ TEN
 
 	  
 ## Installation	  
-HH
+Intall and open files up in a node.js environment
 	  
 ## Usage	  
-HH
+Type in 'node index' at the command line
 
 ## License
-GNU General Public License v3.0,MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 	  
 ## Contributing
-VV
+shirleyama is the only contributor at the moment and would welcome input from others
 	  
 ## Tests
-TT
+It was tested locally on my laptop with varying answers
 	  
 ## Questions
 If you have any questions, please feel free to reach out to me via:
 	
-- [XC](https://github.com/XC)
-- [JGH](mailto:JGH)
-N
+- [shirleyama](https://github.com/shirleyama)
+- [quists@hotmail.com](mailto:quists@hotmail.com)
 
-N
