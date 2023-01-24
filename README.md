@@ -1,7 +1,7 @@
-# Readme Generator
+# YES
 
 ## Description	   
-A command-line application that dynamically generates a 
+TEN
 	  
 ## Table of Contents
 	  
@@ -13,22 +13,25 @@ A command-line application that dynamically generates a
 
 	  
 ## Installation	  
-Open the code up in a node.js environment in VS Code
+HH
 	  
 ## Usage	  
-node index
+HH
 
 ## License
-MIT License
+GNU General Public License v3.0,MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 	  
 ## Contributing
-shirleyama
+VV
 	  
 ## Tests
-It was tested locally by running it with different answers
+TT
 	  
 ## Questions
 If you have any questions, please feel free to reach out to me via:
 	
-- [shirleyama](https://github.com/shirleyama)
-- [quists@hotmail.com](mailto:quists@hotmail.com)
+- [XC](https://github.com/XC)
+- [JGH](mailto:JGH)
+N
+
+N
