@@ -1,42 +1,37 @@
-# Readme Generator
+# readme gen
 
-	  ## Description
+## Description
+	   
+generates a file
 	  
-	  A command-line application that dynamically generates a professional README.md file from a user's input.
+## Table of Contents
 	  
-	  ## Table of Contents
-	  
-	  1. [Installation](#installation)
-	  2. [Usage](#usage)
-	  3. [Contributing](#contributing)
-	  4. [Tests](#tests)
-	  5. [Questions](#questions)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Tests](#tests)
+5. [Questions](#questions)
 
 	  
-	  ## Installation
+## Installation
 	  
-	  Type in 'node index' at the command line in vs code
+install node
 	  
-	  ## Usage
+## Usage
 	  
-	  In the terminal
+node index
 
-    ## License
+## License
+MIT License
 	  
-	  MIT
+## Contributing
+shirley
 	  
-	  ## Contributing
+## Tests
+locally
 	  
-	  Shirley
-	  
-	  ## Tests
-	  
-	  Locally on a laptop
-	  
-	  ## Questions
-	  
-	  If you have any questions, please feel free to reach out to me via:
+## Questions
+If you have any questions, please feel free to reach out to me via:
 	
-	  1. email@email.com
-	  2. shirleyama
-	
+1. qqq@qqq.com
+2. shirleyama
