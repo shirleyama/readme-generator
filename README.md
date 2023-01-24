@@ -10,7 +10,6 @@ A command-line application that dynamically generates a professionalÂ README.mdÂ
 
 [README Generator Link](https://drive.google.com/file/d/1mCqD3WZORmnSTDEGt7R0mMOEJT7cVn81/view?usp=share_link)
 
-
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -27,7 +26,7 @@ Intall and open files up in a node.js environment
 
 Type in 'node index' at the command line
 
-![README Generator screenshot](assets/images/readme-gen.jpg)
+![README Generator screenshot](images/readme-gen.jpg)
 
 ## License
 
