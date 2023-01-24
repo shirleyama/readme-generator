@@ -1,8 +1,7 @@
-# readme proj
+# Readme Generator
 
-## Description
-	   
-gens a readme file
+## Description	   
+A command-line application that dynamically generates a 
 	  
 ## Table of Contents
 	  
@@ -13,25 +12,23 @@ gens a readme file
 5. [Questions](#questions)
 
 	  
-## Installation
+## Installation	  
+Open the code up in a node.js environment in VS Code
 	  
-123
-	  
-## Usage
-	  
-456
+## Usage	  
+node index
 
 ## License
 MIT License
 	  
 ## Contributing
-st
+shirleyama
 	  
 ## Tests
-locally
+It was tested locally by running it with different answers
 	  
 ## Questions
 If you have any questions, please feel free to reach out to me via:
 	
-1. sds
-2. sss
+- [shirleyama](https://github.com/shirleyama)
+- [quists@hotmail.com](mailto:quists@hotmail.com)
