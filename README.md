@@ -1,8 +1,8 @@
-# readme gen
+# readme proj
 
 ## Description
 	   
-generates a file
+gens a readme file
 	  
 ## Table of Contents
 	  
@@ -15,17 +15,17 @@ generates a file
 	  
 ## Installation
 	  
-install node
+123
 	  
 ## Usage
 	  
-node index
+456
 
 ## License
 MIT License
 	  
 ## Contributing
-shirley
+st
 	  
 ## Tests
 locally
@@ -33,5 +33,5 @@ locally
 ## Questions
 If you have any questions, please feel free to reach out to me via:
 	
-1. qqq@qqq.com
-2. shirleyama
+1. sds
+2. sss
