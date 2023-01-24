@@ -26,7 +26,7 @@ Intall and open files up in a node.js environment
 
 Type in 'node index' at the command line
 
-![README Generator screenshot](images/readme-gen.jpg)
+![README Generator screenshot](images/readme-gen.png)
 
 ## License
 
