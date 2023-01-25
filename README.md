@@ -26,7 +26,7 @@ Copy and open up files in a node.js environment
 
 node index.js
 
-![README Generator screenshot](images/readme-gen.jpg)
+![README Generator screenshot](images/readme-gen.png)
 
 ## License
 
