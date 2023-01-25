@@ -1,12 +1,12 @@
-# Readme Generator
+# README Generator
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
 A command-line application that dynamically generates a professional README.md file from a user's input.
 
-## Screen Recorder Link
+### Screen Recorder Link
 
 [README Generator Link](https://drive.google.com/file/d/1mCqD3WZORmnSTDEGt7R0mMOEJT7cVn81/view?usp=share_link)
 
@@ -20,25 +20,25 @@ A command-line application that dynamically generates a professional README.md�
 
 ## Installation
 
-Copy and open up files in a node.js environment
+Intall and open files up in a node.js environment
 
 ## Usage
 
-node index.js
+Type in 'node index' at the command line
 
 ![README Generator screenshot](images/readme-gen.png)
 
 ## License
 
-Licensed under the MIT license.
+MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
-shirleyama
+shirleyama is the only contributor at the moment and would welcome input from others
 
 ## Tests
 
-Locally on my machine and previewing generated README
+It was tested locally on my laptop with varying answers
 
 ## Questions
 
